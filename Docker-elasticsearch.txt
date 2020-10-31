@@ -1,0 +1,4 @@
+new elasticsearch deployment
+with kubernetes and helm
+
+based on cloudposse
