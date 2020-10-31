@@ -2,3 +2,5 @@ new elasticsearch deployment
 with kubernetes and helm
 
 based on cloudposse
+
+new cloud native projects @2020
