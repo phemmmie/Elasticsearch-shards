@@ -4,3 +4,7 @@ with kubernetes and helm
 based on cloudposse
 
 new cloud native projects @2020
+
+deploy elasticsearch on mesos to implement geotagging
+
+deployment will be on AWS
